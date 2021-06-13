@@ -18,6 +18,9 @@ class Quadrant {
             System.out.println(4);
         } 
 
+
+        io.close();
+
     }
 
 }
