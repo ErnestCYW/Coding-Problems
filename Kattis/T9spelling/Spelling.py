@@ -1,7 +1,6 @@
 def convert(letter):
     if letter == " ":
         return ("0", 1)
-
     return {
         "a": ("2", 1),
         "b": ("2", 2),
